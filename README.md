@@ -1,2 +1,15 @@
 # justthetip
-Tip Calculator (CodePath Pre-Work)
+Tip Calculator 
+by Abby Johnson (abigailbassjohnson@gmail.com)
+
+
+
+WIP: 
+* Ran into some problems (possibly xcode-related?) with the UserDefault settings, and was unable to finish in time :-( 
+* I'm afraid I misunderstood the instructions, in that I took the user stories (listed under Step 6) to be optional. That's why I only implemented some (layout/formatting improvements, persisting keyboard visibility) and not others (localized currency, etc.)
+
+
+Notes:
+* Optimized for iPhone 7
+* Outstanding work/improvements commented as 'TODO'
+
