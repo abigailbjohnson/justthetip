@@ -2,7 +2,7 @@
 Tip Calculator 
 by Abby Johnson (abigailbassjohnson@gmail.com)
 
-![alt tag](https://github.com/abigailbjohnson/justthetip/blob/master/JustTheTip_Johnson.gif)
+![alt tag](https://github.com/abigailbjohnson/justthetip/blob/master/JustTheTip.gif)
 
 WIP: 
 * Ran into some problems (possibly xcode-related?) with the UserDefault settings, and was unable to finish in time :-( 
