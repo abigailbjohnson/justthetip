@@ -12,4 +12,5 @@ WIP:
 Notes:
 * Optimized for iPhone 7
 * Outstanding work/improvements commented as 'TODO'
+* Logo/artwork borrowed without permission from [Redbubble.com/profile/teeandmee](https://www.redbubble.com/people/teeandmee/works/24803709-eggplant-emoji-different-facial-expression) 
 
